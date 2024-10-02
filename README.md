@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hi! Thank you so much for effort. This video is really helpful for those who wants to learn Git and Github from the begining stage. Thanks a lot brother. 
